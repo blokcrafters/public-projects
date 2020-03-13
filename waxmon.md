@@ -18,21 +18,29 @@ guilds that is easy to integrate into existing systems.
 
 ZooKeeper Ensemble
 
-* ~~5 machine ensemble setup and running~~
+* ~~5 machine ensemble setup and running~~ completed
 
 <h3>Monitoring</h3>
 
 WaxMon
 
-* ~~easy to configure monitor system feeds heartbeat data to zookeeper~~
+* ~~easy to configure monitor system feeds heartbeat data to zookeeper~~ completed
+* Add certificate based access
+ * Allow for other guild integration and security
 
 <h3>Alert</h3>
+
+Build an easy to configure alert system
 
 * Send alerts to a slack channel
 * Send alerts to a telegram channel
 * Send text messages to a cell phone number
 
 <h3>Status</h3>
+
+WebWaxMon
+
+* Web Frontend for viewing system status of zookeeper information
 
 <h1>Development Team Members</h1>
 
