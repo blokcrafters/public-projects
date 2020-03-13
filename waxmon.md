@@ -13,12 +13,14 @@ is relatively easy to fix.  We aim to produce a monitoring and alert system for 
 guilds that is easy to integrate into existing systems.
 
 <h1>Project Roadmap</h1>
+
 * Backbone
 * Monitoring
 * Alert
 * Status
 
 <h1>Development Team Members</h1>
+
 * Dan Dickey
-** dan@blokcrafters.com
-** https://t.me/BlokCrafterDan
+  * dan@blokcrafters.com
+  * https://t.me/BlokCrafterDan
