@@ -14,12 +14,12 @@ guilds that is easy to integrate into existing systems.
 
 <h1>Project Roadmap</h1>
 
-* Backbone
- * ZooKeeper Ensemble
-  * 5 machine ensemble setup and running
-* Monitoring
-* Alert
-* Status
+<h3>Backbone</h3>
+ZooKeeper Ensemble
+* 5 machine ensemble setup and running
+<h3>Monitoring</h3>
+<h3>Alert</h3>
+<h3>Status</h3>
 
 <h1>Development Team Members</h1>
 
