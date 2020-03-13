@@ -15,6 +15,8 @@ guilds that is easy to integrate into existing systems.
 <h1>Project Roadmap</h1>
 
 * Backbone
+ * ZooKeeper Ensemble
+  * 5 machine ensemble setup and running
 * Monitoring
 * Alert
 * Status
