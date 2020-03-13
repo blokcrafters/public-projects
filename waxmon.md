@@ -44,6 +44,10 @@ WebWaxMon
 
 <h1>Development Team Members</h1>
 
+Product Design, Management, and Development
+
 * Dan Dickey
   * dan@blokcrafters.com
   * https://t.me/BlokCrafterDan
+
+Web frontend Design and Development
