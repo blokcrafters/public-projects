@@ -51,3 +51,7 @@ Product Design, Management, and Development
   * https://t.me/BlokCrafterDan
 
 Web frontend Design and Development
+
+* Brandon Dickey
+* Peter Kerkinni
+* Fuat Kerkinni
