@@ -15,16 +15,19 @@ guilds that is easy to integrate into existing systems.
 <h1>Project Roadmap</h1>
 
 <h3>Backbone</h3>
+
 ZooKeeper Ensemble
 
 * ~~5 machine ensemble setup and running~~
 
 <h3>Monitoring</h3>
+
 WaxMon
 
 * ~~easy to configure monitor system feeds heartbeat data to zookeeper~~
 
 <h3>Alert</h3>
+
 * Send alerts to a slack channel
 * Send alerts to a telegram channel
 * Send text messages to a cell phone number
