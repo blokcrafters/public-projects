@@ -16,8 +16,13 @@ guilds that is easy to integrate into existing systems.
 
 <h3>Backbone</h3>
 ZooKeeper Ensemble
-* 5 machine ensemble setup and running
+
+* ~~5 machine ensemble setup and running~~
+
 <h3>Monitoring</h3>
+
+* ~~easy to configure monitor system feeds heartbeat data to zookeeper~~
+
 <h3>Alert</h3>
 <h3>Status</h3>
 
