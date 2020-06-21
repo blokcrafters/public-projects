@@ -2,7 +2,7 @@
 
 <h1>Description</h1>
 BlokCrafters is working on development of a monitoring and alert system for the WAX Blockchain
-that will be freely available for other guilds to implement for their own use or to easily integrate
+that will be available for other guilds to implement for their own use or to easily integrate
 with for ease of use and administration.  The MIT license will be used.
 
 <h1>The Problem</h1>
@@ -26,7 +26,7 @@ WaxMon
 
 * ~~easy to configure monitor system feeds heartbeat data to zookeeper~~ completed
 * Add certificate based access
- * Allow for other guild integration and security
+  * Allow for other guild integration and security
 
 <h3>Alert</h3>
 
