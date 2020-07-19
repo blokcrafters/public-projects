@@ -4,7 +4,7 @@
 BlokCrafters is working on development of the WAX NFT-Deck. The WAX NFT-Deck will be a IOS/Android app that tracks the NFTs in a WAX users account. It will display all the users WAX Wallets NFTs from nottable authors on WAX, and also the price of the NFTs. There will be a account value displayed of all NFTs inside the WAX wallet. 
 
 ## The Problem 
-Currently we do not see any consumer IOS/Andorid apps that have been created specifically for tracking, displaying, calculating and sharing a WAX NFTs. Just like how every person in crypto has a Blockfolio type of wallet, we believe there will be the same for NFT tracking wallets that are like apps for example like Blockfolio BUT for NFTs. This is a perfect time to begin filling the gap so WAX users can have a variety of ways to view there NFT holdings on the go!
+Currently we do not see any consumer IOS/Andorid apps that have been created specifically for tracking, displaying, calculating and sharing a WAX NFT. Just like how every person in crypto has a Blockfolio type of wallet, we believe there will be the same for NFT tracking wallets that are like apps for example like Blockfolio BUT for NFTs. This is a perfect time to begin filling the gap so WAX users can have a variety of ways to view there NFT holdings on the go!
 
 ## Project Roadmap
 
