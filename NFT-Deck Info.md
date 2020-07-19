@@ -2,10 +2,9 @@
 
 ## Description
 BlokCrafters is working on development of a 
-BlokCrafters is working on development of a monitoring and alert system for the WAX Blockchain that will be available for other guilds to implement for their own use or to easily integrate with for ease of use and administration. The MIT license will be used.
 
 ## The Problem 
-Currently there are no systems 
+Currently there are no apps
 
 ## Project Roadmap
 
