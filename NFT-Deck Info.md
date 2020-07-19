@@ -8,17 +8,19 @@ Currently there are no apps
 
 ## Project Roadmap
 
-### Deisign Phase
+### Design Phase
 WireFrames and creating all graphics
 
-### Defining API 
+### API Integration
 Mapping Data Point
 
 ### iOS development 
 code will be written in SwiftUI
 
 ### Functional & Unit Test
-Release to app store
+- unit test
+- funtional testing 
+
 
 ### Release the App to App store
 
