@@ -36,6 +36,7 @@ IOS/Android Development
 - Brandon Dickey
 
 Development Support
+
 Dan Dickey
 - dan@blokcrafters.com
 - https://t.me/BlokCrafterDan
