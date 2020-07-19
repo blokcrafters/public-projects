@@ -8,16 +8,19 @@ Currently there are no apps
 
 ## Project Roadmap
 
-### Backbone
-- 5 machine ensemble setup and running completed
+### Deisign Phase
+WireFrames and creating all graphics
 
-### part 1
+### Defining API 
+Mapping Data Point
 
-### part 2
+### iOS development 
+code will be written in SwiftUI
 
-### part 3
+### Functional & Unit Test
+Release to app store
 
-### part 4
+### Release the App to App store
 
 # Development Team Members
 Product Design, Management, and Development
