@@ -15,7 +15,7 @@ WireFrames and creating all graphics
 Mapping Data Point
 
 ### iOS development 
-code will be written in SwiftUI
+Development will be done in SwiftUI
 
 ### Functional & Unit Test
 - unit test
@@ -30,7 +30,9 @@ Product Design, Management, and Development
 Dan Dickey
 - dan@blokcrafters.com
 - https://t.me/BlokCrafterDan
+
 IOS/Android Development
 - Brandon Dickey
 - Peter Kerkinni
 - Fuat Kerkinni
+- Gabriel Kerkinni
