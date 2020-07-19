@@ -25,16 +25,17 @@ Currently we do not see any consumer IOS/Andorid apps that have been created spe
 ### Release the App to App store
 
 # Development Team Members
-Development
+
+Design
+- Nickeles Kerkinni
+ 
+IOS/Android Development
+- Fuat Kerkinni
+- Peter Kerkinni
+- Gabriel Kerkinni
+- Brandon Dickey
+
+Development Support
 Dan Dickey
 - dan@blokcrafters.com
 - https://t.me/BlokCrafterDan
-
-IOS/Android Development
-- Brandon Dickey
-- Peter Kerkinni
-- Fuat Kerkinni
-- Gabriel Kerkinni
-
-Design
-- Nickeles Kerkinni 
