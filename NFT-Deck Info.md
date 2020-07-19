@@ -34,5 +34,4 @@ Dan Dickey
 IOS/Android Development
 - Brandon Dickey
 - Peter Kerkinni
-- Fuat Kerkinni
 - Gabriel Kerkinni
