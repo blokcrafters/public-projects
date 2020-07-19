@@ -18,8 +18,8 @@ Mapping Data Point
 Development will be done in SwiftUI
 
 ### Functional & Unit Test
-- unit test
-- funtional testing 
+- Unit Test
+- Funtional Test 
 
 
 ### Release the App to App store
