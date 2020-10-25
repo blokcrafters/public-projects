@@ -3,7 +3,7 @@
 <h1>Description</h1>
 BlokCrafters is working on development of a monitoring and alert system for the WAX Blockchain
 that will be available for other guilds to implement for their own use or to easily integrate
-with for ease of use and administration.  The MIT license will be used.
+with for ease of use and administration.  ~~The MIT license will be used.~~
 
 <h1>The Problem</h1>
 Currently there are no systems readily available for a WAX Guild to install and use for
