@@ -2,7 +2,7 @@
 
 <h1>Description</h1>
 BlokCrafters is working on development of a monitoring and alert system for the WAX Blockchain
-that will be available for other guilds to implement for their own use or to easily integrate
+that will be available for other guilds to easily integrate
 with for ease of use and administration.
 
 <h1>The Problem</h1>
